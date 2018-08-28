@@ -1,5 +1,5 @@
 def main():
-    filu = input("Anna filu: ") # C:\Users\kauha\Desktop\ttyyh18.json
+    filu = input("Anna filu: ")
 
     vikaRivi = False
     käyttäjät = dict()
